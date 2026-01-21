@@ -4,5 +4,5 @@ The folder gene\_expression\_data\_analysis contains six subfolders, each corres
 
 
 
-The file "Simple\_Machine\_Learning\_cases" includes four tasks completed as part of the course Data Intensive Programming, which emphasizes large-scale data management and analysis using programming tools. The exercises are based on a large, six-month time-series dataset, with minute-level measurements recorded in each row. The columns represent timestamps and multiple measurement types, such as temperature, humidity, and solar power production (see script for details). Each task involves building a simple machine learning model to predict sample labels using different feature sets.
+The file "Scalable Time-Series Classification with Apache Spark" includes four tasks completed as part of the course Data Intensive Programming, which emphasizes large-scale data management and analysis using programming tools. The exercises are based on a large, six-month time-series dataset, with minute-level measurements recorded in each row. The columns represent timestamps and multiple measurement types, such as temperature, humidity, and solar power production (see script for details). Each task involves building a simple machine learning model to predict sample labels using different feature sets.
 
